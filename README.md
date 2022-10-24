@@ -4,3 +4,4 @@ The qusetions has options and on choosing the right answer points are rewarded.
 At the end of the quiz the score is displayed.
 
 CHECK OUT THE APP HERE:
+https://replit.com/@Serene2705/Harry-Potter-Quiz?v=1
